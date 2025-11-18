@@ -1,8 +1,8 @@
 ## Hello GitHub! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 <ul>
  <li><p>I'm Pedro Pacheco</p></li>
- <li><p>17 yo</p></li>
- <li><p> Currently Studying at <a href="https://www.cps.sp.gov.br/etecs/etec-albert-einstein-casa-verde/">ETEC Albert Einstein</a><p></li>
+ <li><p>18 yo</p></li>
+ <li><p> Currently Studying at <a href="https://www.fatecsp.br/">FATEC</a><p></li>
  <li>Aiming for Data Science</li>
 </ul>
  
