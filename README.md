@@ -2,7 +2,7 @@
 <ul>
  <li><p>I'm Pedro Pacheco</p></li>
  <li><p>18 yo</p></li>
- <li><p> Currently Studying at <a target=_blank href="https://www.fatecsp.br/" >FATEC</a><p></li>
+ <li><p> Currently Studying at <a  href="https://www.fatecsp.br/" target="_blank">FATEC</a><p></li>
  <li>Aiming for Data Science</li>
 </ul>
  
